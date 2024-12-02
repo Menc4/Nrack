@@ -4,15 +4,6 @@ name = "max-sg1" # todo
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
-[[routes]]
-pattern = "sg1.crackie91.web.id"
-custom_domain = true
-[[routes]]
-pattern = "quiz.int.vidio.com.sg1.crackie91.web.id"
-custom_domain = true
-[[routes]]
-pattern = "quiz.vidio.com.sg1.crackie91.web.id"
-custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
@@ -21,4 +12,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "35f72c9b-b010-4823-aa8c-5a76d47e8464"
+UUID = "1a627ad2-0325-4843-9ac3-847d2fb5808f"
